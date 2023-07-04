@@ -21,6 +21,8 @@
   <a href = "jonata.f.s.galindo.1997@gmail.com:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonata-galindo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Jonata1997/Jonata1997/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jonata1997/Jonata1997/- nome: gerar-snake-game-from-github-contribution-grid
+  usa: Platane/snk@v2.2.1
+
 
 </div>
